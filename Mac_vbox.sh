@@ -6,4 +6,4 @@ VBoxManage setextradata "Catalina" "VBoxInternal/Devices/efi/0/Config/DmiSystemV
 VBoxManage setextradata "Catalina" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Iloveapple"
 VBoxManage setextradata "Catalina" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
 VBoxManage setextradata "Catalina" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
-echo"You are done"
+echo "You are done."
